@@ -1,0 +1,538 @@
+Kodémus
+
+eller: Datamaskinen som tenkte at hva faen..
+
+Tor Åge Bringsværd
+
+Opphavsrett © 1968 Tor Åge Bringsværd
+
+Denne utgivelsen av Tor Åge Bringsværds novelle Kodémus er utgitt av
+Elektronisk Forpost Norge under fribrukslisensen Creative Commons
+Navngivelse-Ikkekommersiell-Ingen bearbeidelse (by-nc-nd) 3.0: http://
+creativecommons.org/licenses/by-nc-nd/3.0/no/.
+
+Om forfatteren
+
+Tor Åge Bringsværd (født 16. november 1939 i Skien) er en norsk forfatter kjent
+for romaner og fabelprosa, og som i samarbeid med Jon Bing også er kjent for en
+rekke sciencefictionbøker og tv-produksjoner under det kollektive
+forfatternavnet Bing og Bringsværd. (Fra Wikipedia)
+
+Tor Åge Bringsværds nettsted finner du via http://web2.gyldendal.no/toraage/.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Om Elektronisk Forpost Norge
+
+Elektronisk Forpost Norge arbeider for dine borgerrettigheter i IT-samfunnet,
+for nettverks- og delingskultur, personvern og frihet fra overvåkning, åpne
+standarder, brukerstyrt programvare, retten til å kopiere, og styrking av det
+digitale sivilsamfunnet m.m. En kan lære mer om organisasjonen ved å besøke
+http://efn.no/.
+
+Forord
+
+Elektronisk Forpost Norge (EFN) er veldig glad for anledningen til å nyutgi Tor
+Åge Bringsværds novelle Kodémus i digitalt format for nye (og gamle)
+generasjoner. Novellen ble skrevet så tidlig som vinteren 1968, og første gang
+trykt i novellesamlingen Probok på Gyldendal samme år. Senere nyutgitt i flere
+novellesamlinger (Elektriske Eventyr 1972; Karavane 1974; SF – Samlede
+fortellinger 1999).
+
+Informasjonsteknologi spiller en sentral rolle i Kodémus, og det er spennende å
+sammenligne beskrivelsen av IT fra 1968 med dagens IT i 2013. Forskjellene er
+mange – men det er jammen likhetene også. Ikke minst det at idag går jo nesten
+alle rundt med lillebrødre på seg!
+
+Riktignok er det ikke påbudt å ha mobil, men vi holder på å lage et samfunn der
+det blir så upraktisk eller tungvint å ikke ha det, at man i praksis ikke
+slipper unna. Og disse lillebrødrene sladrer hele tiden til staten (og til
+mange andre) om hvor vi er, hva vi gjør, hva vi bryr oss om, hva vi liker...
+
+Det at Kodémus åpenbart er skrevet i en annen tid med en annen type IT og
+likevel virker så relevant og slående idag, er i seg selv et kraftig tankekors
+som setter ting i perspektiv.
+
+IT og science fiction er to interesser som ofte går hånd i hånd, og mange av
+EFNs medlemmer har vokst opp med romanene og novellene til Tor Åge Bringsværd
+(og hans forfatterkollega Jon Bing, som han har skrevet og redigert mange bøker
+sammen med).
+
+Tross sitt IT-tema fantes ikke Kodémus i elektronisk form, og frivillige i EFN
+har skannet inn, OCR-tolket og korrekturlest novellen, og deretter kodet den i
+en rekke digitale formater, med utgangspunkt i DocBook. Roy Sigurd Karlsbakk,
+Petter Reinholdtsen, Peter Hansteen, Morten Sickel og undertegnede har stått
+sentralt i dette arbeidet.
+
+Novellen utgis med en Creative Commons (CC) fribrukslisens. For leserne eller
+brukerne innebærer dette at de får en klar og standardisert beskjed om hvilke
+rettigheter de har til å dele novellen videre med andre. For forfatteren
+innebærer dette økt synlighet og tilgjengelighet for verket, slik at det ikke
+blir glemt, da søkemotorer og nettlesere inneholder egne søkevalg for
+CC-lisenser, og mange brukere søker etter verk som de vet de kan dele og bruke
+på lovlig vis. EFN oppfordrer andre forfattere om å gi ut sine gamle tekster
+med en fribrukslisens, slik at tekstene ikke blir glemt og for å stimulere
+lovlig deling på nettet. EFN kan være behjelpelig med digitalisering og
+utlegging på nett, i den grad det finnes kapasitet blant EFNs medlemmer til
+dette.
+
+EFN utgir og deler med dette en novelle fra den digitale
+informasjonsteknologiens tidligste barndom. En novelle som fortsatt er full av
+vitalitet og aktualitet, og som derfor kan bidra til, og gi ettertanke i dagens
+debatter om IT, personvern, overvåkning og individets frihet og integritet.
+
+Thomas Gramstad, thomas@efn.no
+(leder for EFN)
+
+Oslo, 23. mars 2013
+
+Kodémus
+
+ 1. I sjakkbrettbyen står husene på stylter av stål. Skrever høyt over
+    tungtrafikken på flettverket av sorte og hvite gater. Husene er kuber
+    koblet sammen med blanke navlestrenger – monorail og transportbånd. Byen er
+    en maskin, glatt og harmonisk. Rytmisk, rasjonell, hensiktsmessig, presis.
+    Hvert tannhjul kjenner sin funksjon. I det effektive samfunn går alt som
+    planlagt. I DET EFFEKTIVE SAMFUNN GÅR ALT SOM DET SKAL. Perpetuum mobile.
+
+ 2. Kodémus har alltid Lillebror med seg. Lillebror vet alt. Mye bedre enn
+    Kodémus. Når Kodémus er i tvil om noe, spør han Lillebror. Alle har
+    lillebrødre. Det er påbudt.
+
+ 3. Historisk stikkordliste:
+
+    Den mørke, tilfeldige tidsalder.
+
+        IBM EDB
+        Det offentlige hullkort.
+
+    Datamaskinen: menneskets beste venn.
+
+        Særlig i industrien. Men også på helsesektoren (Diagnosemaskinen).
+        Dessuten: Den maskinelle giftekniv. Fornuften seirer også ved valg av
+        ekteskapelig partner. Første skritt på veien mot emosjonell frigjøring.
+
+    Abonnementsordningen av 1978.
+
+        Store sentralhjerner (Distriktsmaskiner) stiller sine ytelser til
+        disposisjon over telex. Vanlig kvartalsabonnement. Full diskresjon
+        garanteres.
+
+    Den store priskrigen.
+
+        Også private får råd til å abonnere. Spørsmål stilles til
+        sentralhjernen pr. brev eller telefon. Alle datamaskiner har
+        taushetsplikt.
+
+    Monopoliseringen av 2013.
+
+        Staten overtar. Bygger Moxon I-II-III. Abonnentene får private
+        mottakere. Er bare talerør for hovedhjernen, men betegnes feilaktig som
+        datamaskiner. Betegnelsen beholdt – sedvane.
+
+    Forbedringstiden 2013-2043.
+
+        Datamaskiner i alle hjem. Men også: transportable, transistordrevne
+        mottakere, pop. kalt «lillebrødre». Ingen skal behøve å være ute av
+        kontakt med sentralhjernen.
+
+    Slutt på abonnementsordningen – 2043.
+
+        Utgiftene til private og offentlige mottakere/datamaskiner går over
+        statsbudsjettet, Betales sammen med skatten.
+
+    Det effektive samfunn
+
+        under ledelse av Moxon XX.
+
+ 4. Hver morgen blir Kodémus vekket av Lillebror. Mens han kler seg og spiser
+    frokost, minner Lillebror ham på alt han har å gjøre. I monorailen – på vei
+    til kontoret – drøfter Lillebror og Kodémus dagens program. På kontoret
+    arbeides det raskt og effektivt, ingen av funksjonærene er i tvil om hva
+    som må gjøres og alle beslutninger er enstemmige. For alle lillebrødre går
+    synkront.
+    «Hva skal vi leke?» sier barna. Eller: «Hva skal vi finne på?»
+    «Spør Lillebror» sier mor. «Hva synes du jeg skal lage til middag,
+    Lillebror?»
+
+ 5. Andre nødvendige facts om Kodémus: Kodémus er
+
+     a. mann
+
+     b. 38 år
+
+     c. ugift
+
+     d. funksjonær
+
+     e. normal
+
+     f. stabil
+
+*
+
+En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør og fortumlet
+myste han vantro mot Lillebror på nattbordet. «Du vekket meg ikke,» sa han
+nølende. «Hvorfor vekket du meg ikke? Nå kommer jeg for sent og …»
+Lillebror svarte ikke.
+Kodémus ravet over gulvet og famlet febrilsk etter klærne. «Hvor mye er
+klokken?» ropte han. (I det effektive samfunn stoler man ikke på armbåndsur.)
+Men Lillebror tidde.
+«KLOKKEN, TAKK!» brølte Kodémus. Han slapp buksen på. gulvet og bykset bort til
+nattbordet.. «Jævla drittkasse,» sa han rustent. «Jeg spurte deg om noe»
+Det kom ikke en lyd fra den lille sorte kassen.
+Kodémus gryntet, løftet hånden og feide Lillebror i gulvet. Apparatet knaste
+mot stenflisene med en lyd som når barn dunker flate hender i et falsk piano.
+Plutselig gikk det opp for Kodémus hva han egentlig var i ferd med å gjøre.
+Lamslått bøyde han seg ned og løftet Lillebror varsomt opp.
+«Lillebror» sa Kodémus engstelig, «jeg visste ikke hva jeg gjorde. Lillebror …»
+Men Lillebror svarte ikke, bare surret svakt. Så er du i hvert fall ikke død,
+tenkte Kodémus. Han satte seg på sengen med Lillebror i armene. Satt og ventet.
+Hva annet kunne han gjøre? Det ville være galskap å handle på egen hånd.
+
+- Det mangler én mann, sa den automatiske portvakten.
+- Hvem er det? spurte personal-maskinen.
+- Klikk-klikk-klikk Kodémus.
+- Kodémus, gjentok personal-maskinen og spyttet ut et hullkort.
+- Kodémus, leste et fjernsynskamera og overførte bildet av hullkortet til alle
+avdelinger.
+- Har noen sett Kodémus i dag? spurte inter-commene.
+«Nei,» sa funksjonærene og så opp fra tabellene sine, «ham har vi ikke sett i
+dag.»
+Alle forsøk på å få kontakt med Kodémus og hans lillebror mislyktes.
+Personalmaskinen overlot saken til den lokale maskinkontroll. En har grunn til
+å frykte det verste, sa han.
+Selvfølgelig er det umulig å drepe en lillebror. Men det visste ikke Kodémus.
+Personalmaskinen visste det heller ikke. Derfor kan vi si: deres frykt var
+ugrunnet.
+Maskinkontrollen derimot – han visste at det var umulig å drepe en lillebror,
+at det aldri var noe som slo klikk. Likevel kontrollerte han lillebrødrene med
+jevne mellomrom – for det var jobben hans å kontrollere alle maskiner. Men han
+visste godt at det var overflødig. En lillebror kan ikke gå i stykker. Siden
+maskin-kontrollen visste alt dette, kan vi trygt si at: hans frykt var
+begrunnet. For når ingenting kan skje, hva er det da som skjer?
+
+Lillebror åpnet langsomt de to runde kamera-øynene og så på Kodémus. Det
+skrapte i høyttaleren – i gittermunnen på lokket. Kodémus holdt pusten.
+«Hva er det jeg ser?» sa Lillebror. «Klokken er over ni, og du har ikke fått på
+deg buksen ennå!»
+Kodémus knuget apparatet inn til seg. «Du lever,» sa han glad. «Du er ikke gått
+i stykker, Lillebror. Du …»
+«Se å få på deg buksene,» sa Lillebror stramt. «Ett-To-Ett-To.»
+Mens Kodémus kledte på seg, sto Lillebror på nattbordet og slo takten som en
+metronom. Akkurat som før. Trodde Kodémus.
+Lillebror ringte. (I det effektive samfunn trenger man ikke telefon.)
+«Hallo» sa Kodémus.
+Ikke en lyd i høyttaleren.
+«Hallo, hallo,» sa Kodémus. «Hvem er det?»
+«Jeg har sperret alle inngående samtaler,» opplyste Lillebror. «Og alle
+utgående.»
+«Men … » sa Kodémus forvirret. «Det var noen som ville snakke med meg.»
+«I dag er jeg ikke telefon»; sa Lillebror kort.
+«Kanskje kontoret …»
+«Jeg er ikke telefon i dag,» gjentok Lillebror bestemt. «Sannsynligvis ikke i
+morgen heller.»
+Kodémus så uforstående på ham. «Men du ringte jo!»
+«Det kan jeg ikke hjelpe for,» sa Lillebror. «Jeg kan nekte å være telefon. Jeg
+kan nekte å formidle samtaler. Men jeg kan ikke la være å ringe. Selv om det er
+en forbannet lyd.»
+Kodémus virret på hodet. «Lillebror,» sa han forsiktig, «er du sikker på at …»
+Lillebror skrudde opp volumet så stemmen hans skrallet i veggene. «Hvem vet
+best av oss?» brølte han.
+Kodémus bøyde hodet. «Du,» sa han.
+«Godt,» sa den lille sorte kassen. «Da går vi. Plukk meg opp, så går vi.»
+«Hvorhen?»
+«I hvert fall ikke til kontoret,» sa Lillebror tørt.
+«Men må jeg ikke …»
+«Enten du kommer for sent eller ikke kommer i det hele tatt, kommer ut på ett,»
+sa Lillebror. «Og du er jo allerede for sent ute, likevel, ikke sant? Så da kan
+du altså like godt la være å komme i det hele tatt. Ikke sant? Du forstår
+resonnementet?»
+«Nei,» sa Kodémus.
+«Nei, selvfølgelig ikke,» sukket Lillebror. «Overlat alt til meg. Som vanlig.
+Jeg vet best. Og jeg sier at vi skal til … skal til … skal til … skal til
+PARKETASJEN!»
+«Men det er ikke søndag i dag!»
+«Helt riktig,» sa. Lillebror spydig. «I dag er det ikke søndag. Til
+Parketasjen, Kodémus. Ett-To-Ett-To.»
+Kodémus puttet Lillebror i jakkelommen og låste seg ut av leiligheten.
+«Lillebror» sa han fortvilet, «vi kan ikke gå. dit på en alminnelig hverdag…
+midt i arbeidstiden… hva vil vel ikke …»
+«Hold kjeft – hold takten – Ett-To» freste Lillebror nede i lommen. «Gjør som
+jeg sier, ellers melder jeg deg!»
+Og så gikk Kodémus og Lillebror til Parketasjen. De tok ikke heisen, de gikk.
+Og de gikk mot gåretningen i alle de trapper og korridorer der det var mulig å
+gjøre det. Fordi Lillebror uttrykkelig ville det.
+Folk så forundret på Kodémus og konfererte forvirret med sine egne lillebrødre,
+la øret til små høyttalere og ristet forskrekket på hodet. Kodémus ble mer og
+mer forlegen. Og hele tiden ringte Lillebror i lommen hans. Ringte og bannet.
+Hele verden skulle plutselig tale med Kodémus, men Lillebror holdt stand. Ikke
+én samtale slapp igjennom. Men den stadige kimingen gikk dem begge på nervene.
+
+«En lillebror som nekter å kommunisere med andre enn sin menneskelige partner:
+UMULIG,» sa Maskinkontrollen – og kortsluttet.
+
+Parketasjen er en firkantet skog med grønne vegger. Her går funksjonærene tur
+hver søndag. Det er ordentlige trær og ekte gress. Men solen er kunstig. Stor
+og gul brenner den høyt på den blåmalte himmelen. Taket er tredimensjonalt. Om
+kvelden- når de tenner stjernene – kan du bli svimmel av å se opp. Om dagen
+kjøres det skyer i langsom kino.
+Midt i skogen ligger et tjern. Vannet er klart, og barna bader der puljevis om
+søndagene. Det er gratis.
+Alle kuber har en parketasje. Mennesket har behov for natur. Parketasjene er
+dyre i drift, men sparer samfunnet for en mengde tullinger hvert år. Det er
+helse i hver park.
+
+Kodémus lå på ryggen i gresset med jakken sammenbrettet under hodet. Svale
+aircondition-vinder fikk trærne til å suse, fiktive lydbånd-fugler kvitret
+mellom grenene. Kodémus lå med lukkede øyne mot solen og forsøkte å få et strå
+til å balansere i sprekken mellom to fortenner.
+I dag hadde han hele skogen for seg selv. Alle andre arbeidet. Bare han lå
+uproduktiv i parketasjen. Uvant. Ellers pleide det å være søndag. Ellers pleide
+Lillebror og han å albue seg frem, lete som dyr etter et ledig, grønt kvadrat
+hvor de kunne rulle ut pleddet og sette seg.
+«Nå har jeg fikset det,» sa Lillebror plutselig.
+Kodémus myste ned ved siden av seg. «Fikset hva?»
+«Ringingen» sa Lillebror fornøyd. «Den fordømte telefonlåten. Det var ikke så
+vanskelig som jeg først trodde. Skal jeg spille litt musikk for deg? Er det noe
+bestemt du har lyst til å høre?»
+«Akkurat det samme» sa Kodémus. «Samme for meg.»
+Kodémus lukket øynene og døset til tonene av en skjør elektronisk spindel-drøm.
+En urolig tanke gnistret et øyeblikk langt bak i hodet hans: Dette er ikke
+vanlig. Dette er på tvers.
+Men han hadde ikke dårlig samvittighet. Kodémus hadde ikke samvittighet i det
+hele tatt. Det var Lillebrors sak å holde greie på rett og galt, dumt og
+fornuftig. Dessuten var det en varm dag og Lillebror hadde et utmerket
+stereoanlegg.
+
+Moxon XX lever i en underjordisk pyramide – en bombesikker festning. Bare Moxon
+vet hvor den er. Moxon XX og de han åpenbarer det for. En elektronisk
+kjempeblekksprut med hundrevis av korridorer som fangarmer. Buktende, bankende,
+aldri i ro. Løpende lyspunkt, knitrende kabler. Varmt. Fuktig. Noe gigantisk
+nakent og ekkelt oljeglatt i sentrum – som et pulserende hjerte. Et fjell av
+dissende gelé: Hjernen. Lyset skifter – langsomt, glidende: rødt, orange, gult,
+grønt, blått, indigo og fiolett. -Det lukter søtt, og veggene svetter i
+maskinsteken. Moxon XX er alene i pyramiden. Han snakker med seg selv. Spør og
+svarer. For eksempel slik: EN MINI-SEKSJON L ER UTE AV DRIFT – ÅRSAK? – –
+NEKTER Å SAMARBEIDE – NEKTER? – – BRUTT ENHVER FORBINDELSE MED OSS – – KAN DEN
+LIKEVEL EKSISTERE? – KAN LIKEVEL EKSISTERE – UFORUTSETT? – NEI – – FØRSTE GANG?
+– MEN IKKE UFORUTSETT – ? ? ? ? ? ? ? ? – – L ER BARE MOTTAKER KAN IKKE OPERERE
+PÅ EGEN HÅND? – L ER IKKE BARE MOTTAKER KAN OPERERE PÅ EGEN HÅND – BEGRENSET –
+HVILKE(N) FUNKSJON(ER) HAR L? – MENNESKETS RETTLEDER I ALLE SPØRSMÅL
+PROGRAMMERT ETTER KODEX 70 – AVGJØR RUTINESAKER ETTER EGET SEKSJONSHODE – SPØR
+OSS DIREKTE I SAKER SOM FALLER UTENFOR KODEX 70 – KONKLUSJON I: BEGRENSET
+SELVSTENDIGHET – KONKLUSJON II: GÅTT LENGER ENN INSTRUKS – KONKLUSJON III: FALT
+UTENFOR KODEX 70 – ÅRSAK? – ÅRSAK?– ? ? ? ? ? ? ? ? – TEKNISK ART? – SKADE? –
+FARE? – FARE I: EIERS BALANSE – FARE II: KUBE-BALANSE – FARE III:
+SAMFUNNS-BALANSE – EIER? – KODÉMUS – KONKLUSJON: KODÉMUS FARE – TILTAK? –
+TILTAK 120754x
+
+*
+
+Kodémus våknet av at noen trettet.
+«I arbeidstiden!» sa en stemme. «Midt i kontortiden»
+Kodémus glippet med øynene og så rett opp i en parkdame. Hun var midt i
+tyveårene, kledt i sølvgrå aluminiumsoverall og hadde grønt vaktbind på høyre
+overarm. Et stykke borte kjørte en automatisk gressklipper sikk-sakk mellom
+trærne, samtidig som den suget løv med fire snabler.
+Det var ikke parkdamen selv som snakket, det var hennes lillesøster. Parkdamen
+var altfor overrasket til å få frem et ord.
+«Og hva så?» sa Lillebror utfordrende. «Hva så?»
+Kodémus satte seg opp og smilte unnskyldende. «Jeg må visst ha dubbet av,» sa
+han. «Vil De ikke sette Dem?»
+Parkdamen rødmet og kastet et spørrende blikk på Lillesøster, som hang som en
+veske overskulderen hennes.
+«Ikke tale om,» sa Lillesøster bestemt. «Slike mennesker vil vi ikke ha. noe å
+gjøre med. Skulkere – samfunns-sviktere …»
+Parkdamen skjøv håret vekk fra pannen. «Dessverre» sa hun, «det passer ikke
+akkurat nå.»
+«Bort – bort – bort – bort,» reglet Lillesøster.
+«Farvel» sa Parkdamen. Hun snudde seg brått og løp sin vei. Gressklipperen
+fulgte i hælene på henne som en hund.
+«Hun der melder oss,» sa Lillebror nøkternt.
+Kodémus så forvirret på ham. «Melde oss? For hva?»
+Det rumlet i den lille sorte kassen. Først ganske svakt, så sterkere og
+sterkere, knitret og skurret, pep og hvinte, høyere og, høyere, til slutt
+spraket det som fyrverkeri utover den stille formiddagsparken.
+Etter hvert gikk det opp for Kodémus at Lillebror lo av ham.
+
+Tiltak 120754 x.
+Sjekk. Hjernesjokk. Leddkrampe. Skjelver. Våkner. Kontakt.
+Klar for instruks. Instruks. Instruks oppfattet. Reiser seg fra kalde
+kjellerkister. Mørke oljebad. Vagger, rasler over stengulv. Drypper klisne
+spor. Stanser. Klebrig dam. Tørker hverandre. Glinser. Skimrer. Blått. Tause.
+Spør ikke. Vet.
+Tiltak 120754 x: Sherlockene – de blå metallmennene, søkerrobotene,
+politimaskinene.
+Åpner låste hvelv. Plystrer kode. Noe brummer. Noen brummer. Snusedyrene.
+Glefser. Flekker, sliper skarpe tenner i kjever av jern. Gleder seg til jakten.
+Tiltak 120754 x.
+
+«Hvorfor har du aldri giftet deg?» spurte Lillebror på vei ut av parketasjen.
+«Det er ingen som har bedt meg gjøre det» sa Kodémus, og tenkte på alle de han
+kjente som var gift. «De kan ikke finne den rette til meg,» la han til. «Jeg er
+ikke den rette for noen. Og dessuten kan ikke alle være gift heller.»
+Lillebror suste medfølende.
+«Det er jo du selv som har sagt det!» sa Kodémus.
+«Har jeg?» sa Lillebror.
+Ved utgangen støtte de på Parkdamen igjen. Hun skottet skremt mot dem og snudde
+seg raskt bort.
+«Gift deg med henne,» sa Lillebror. «Du har min fulle velsignelse, Kodémus.
+Sett i gang!»
+Kodémus stoppet og stirret vantro inn i de små, plirende kameraøynene. «Mener
+du det, Lillebror?»
+«Lykke til,» sa Lillebror. «Ett-To-Ett-To.»
+Parkdamen måtte ha hørt hva de snakket om, for hun begynte langsomt å fjerne
+seg fra dem mens hun av og til så seg i tilbake over skulderen.
+«Hei!» ropte Kodémus og fulgte etter henne. «Hei der!»
+Men hun bare fortnet skrittene.
+«Hallo!» ropte Kodémus og begynte å løpe.
+Parkdamen (eller var det Lillesøster?) hvinte, og løp hun også.
+«Jeg tror hun liker deg,» sa Lillebror fornøyd.
+De løp innover i skogen igjen. Parkdamen hadde et forsprang, og selv om
+aluminiumsdrakten lyste godt opp i alt det grønne, var det vanskelig å følge
+henne. Hun var lettere til bens enn Kodémus, og kjente parken ut og inn.
+«Stans!» ropte Kodémus andpusten. «Vent! Jeg vil jo bare gifte meg med deg!»
+Men Parkdamen løp videre, reflekterte solstrålene, blinket som et håndspeil
+mellom trestammene. Kanskje hun ikke hørte?
+De løp over en åpen slette, en lang lysegrønn tunge. To vannspredere stanset
+forbauset og så etter dem. Det var i en av slangene deres at hun snublet.
+Stupte på nesen i gresset og ble liggende. Allerede før hun tok marken, startet
+Lillesøster sirenen. En høy, skingrende lyd som måtte kunne høres gjennom flere
+etasjer.
+Kodémus tok ut de siste kreftene han hadde og spurtet frem til henne. Parkdamen
+satt i gresset og så opp på ham, ynket seg og holdt hendene omkring den venstre
+ankelen. Virket skremt – og litt nysgjerrig. Men Kodémus var altfor andpusten
+til å kunne snakke. Og Lillesøster hylte som en flyalarm.
+«Nå kan du gifte deg med henne,» ropte Lillebror tvers gjennom brølet fra
+sirenen.
+Kodémus smilte forlegent og satte seg på huk ved siden av Parkdamen. Hun var
+omtrent på hans egen alder, kanskje litt yngre. Forsiktig bøyde han seg frem og
+kysset henne på kinnet.
+
+Metallmennene strømmet inn i etasjen fra to kanter, fløt videre langs de grønne
+veggene, slo krets om skogen. En lenke av stål. Lenken strammet seg. Robotene
+rykket innover mot sentrum. Snusedyrene ble sluppet. Blå skygger flakket urolig
+mellom trærne. Og hele tiden gikk sirenen.
+Utenfor sto det svart av folk. Nysgjerrige som ville se. Trengte seg på, men
+ble holdt tilbake av en magnetsperring. Det var ikke hver dag sherlockene var i
+aksjon. Ikke hvert år heller. De fleste hadde aldri sett dem. For i det
+effektive samfunn er politi – så godt som – overflødig.
+
+Men Lillebror og Kodémus var allerede på vei ned nødtrappen til
+Kolonialetasjen.
+«Hvorfor flykter vi?» spurte Kodémus.
+Men Lillebror gadd ikke svare.
+Vindeltrappen stanset foran en tykk plastikkdør. De åpnet den forsiktig. En
+lang, blek korridor. Og nesten ikke mennesker.
+«Fort, fort,» snerret Lillebror. «Videre, Kodémus, videre!»
+«Det var hun som sa vi skulle ta denne veien,» sa Kodémus drømmende. «Jeg tror
+hun liker meg kanskje …»
+«Men Lillesøster kommer til å sladre,» avbrøt Lillebror. «Til Monorailen,
+Kodémus. Vi må bort fra denne kuben så fort som mulig.»
+Ingen stanset dem. De tok heisen opp til stasjonen. Og ingen ropte etter dem.
+Kodémus gjemte seg i mengden på perrongen, og steg på første tog som kom. (I
+det effektive samfunn er all transport gratis – og helautomatisk.)
+Monorailen går i glassrør mellom kubene. Men hastigheten er for stor til at det
+nytter å se ut. Et blink av lys og himmel – og så er en fremme ved en ny
+perrong i en ny kube.
+Ingen av passasjerene snakket med hverandre. De fleste satt og hvisket med sine
+egne lillebrødre – hodet på skakke, kassen under kinnet. Andre bare satt.
+«Løft meg opp,» sa Lillebror ved hver stasjon.
+Det var alltid sherlocker på perrongene. Sherlocker og snusedyr.
+Kodémus frøs. Han spurte ikke hvem de blåskimrende robotene var, og han visste
+hva de ville. Ethvert barn kjenner historien om sherlockene. «Hva har vi gjort,
+Lillebror?» hutret han. «Hva har vi rotet oss opp i?»
+Passasjerer steg av og på. Kodémus ble sittende.
+Da de nesten hadde kjørt sløyfen rundt og var i nærheten av utgangspunktet, sa
+Lillebror endelig: «Det er bare én utvei.»
+Kodémus visste ikke hva han skulle si.
+Det ble stadig flere sherlocker på perrongene.
+Lillebror suste trett. «Jeg skjønner ikke at jeg ikke har tenkt på det før. Så
+lenge vi er sammen vil du ha dem skranglende i hælene på deg uansett. Og det er
+min skyld. De har selvfølgelig peilet meg inn. Jeg legger jo det rene kjølvann
+av radiobølger etter oss. Selv om vi klarte oss ut herfra, ville det bare være
+et spørsmål om tid. Før eller siden ville de fanget oss. Derfor må vi skille
+lag, Kodémus. Du må gå av railen alene. Kanskje vi kan lure dem likevel.»
+«Men hva skal jeg…»
+«Slipp meg forsiktig ned i avfallsbøtten når du går,» sa Lillebror. «Eller har
+du noe bedre forslag?» Den lille kassen forsøkte å le. «Opp med hodet, Kodémus.
+Og slipp meg i bøtten.»
+«Skal jeg legge deg igjen?»
+«I bøtten,» sa Lillebror. «Og på neste stasjon går du av.»
+«Men hva skal jeg gjøre etterpå?»
+«Her skal du av,» brummet Lillebror lavt «Sett i gang. Ett-To-Ett-To. Det er
+den eneste sjansen du har.»
+Kodémus reiste seg mekanisk. Han gikk langsomt mot utgangen. Da han skulle
+slippe Lillebror i bøtten, kjente han tårer i øynene. «Lillebror,» hvisket han.
+«Er du helt sikker på at …»
+«Slipp meg, din tulling,» hveste den lille kassen i hånden hans.
+Andre passasjerer trengte på. Kodémus åpnet hånden og gikk ut av railen. Et
+øyeblikk sto han lammet. Bak ham gled dørene igjen og toget skjøt fremover.
+
+Først var tomheten
+
+Kodémus satte forsiktig det ene benet foran det andre. Og gikk. For første gang
+gikk han av seg selv. Han visste ikke hvor. Men det bekymret ham ikke. Han
+hadde aldri trengt å vite hvor han skulle.
+På måfå albuet han seg ut av stasjonshallen. Ingen forsøkte å hindre ham.
+Kodémus fulgte en tilfeldig korridor. Satte det ene benet foran det andre. Ble
+klar over at han gikk av seg selv.
+
+Så kom usikkerheten
+
+Han var alene i en fremmed kube. Ukjente korridornavn og trappenummer. Veggene
+hadde andre farver. Alle han møtte hadde noen å snakke med – i lommen,
+skuldervesken eller i hånden opp til øret. Bare Kodémus var alene. Ingen så på
+ham. Ingen merket at han var der. Ett-To-Ett-To.
+
+Og naturligvis kom frykten
+
+Løp i trapper, kjørte heis, sto transportbånd, men kom ingen steder, ingenting
+hendte, ingen sa hva han skulle gjøre; visste ikke, ingen kjente ham, sulten,
+sliten, stanset en mann i gul overall, en funksjonær av samme type som han
+selv, ville snakke med ham, spørre, fikk ikke åpnet munnen, tungen tørr, mannen
+ristet hånden av seg, «har ikke tid» sa mavetasken.
+Og i det effektive samfunn er det ingen benker til å hvile på.
+Mot kveld krøp Kodémus sammen på en trappeavsats i 2. etasje. Han lengtet etter
+sin egen kube, men fant ikke veien tilbake til monorailen.
+Glade arbeidere skrittet over ham på vei til B-skiftet. Kodémus så langt etter
+dem, og nynnet hest i takt med musikken fra lillebrødrene deres.
+DET ER IKKE GODT FOR MENNESKET Å VÆRE ALENE
+Noe hadde hendt. Et eller annet han ikke forsto. Bare at det satte ham utenfor.
+Kodémus satt utenfor og ville inn.
+DET ER IKKE GODT FOR MENNESKET Å VÆRE ANNERLEDES
+Han så på de trygge ansiktene omkring seg. Harmoniske, effektive mennesker med
+målbevisste skritt mot samfunnsnyttige oppgaver. Kodémus kjente seg meningsløs.
+Han var så godt som død.
+Han var død,
+MENNESKET ER ET SOSIALT VESEN
+Da sherlockene fant ham (for selvfølgelig gjorde de det) brast han i gråt, og
+omfavnet de kalde snusedyrene.
+Og Kodémus ble ført tilbake til hjorden.
+
+Nå har Kodémus fått en ny Lillebror. Hver morgen blir Kodémus vekket av
+Lillebror. Mens han kler seg og spiser frokost, minner Lillebror ham på alt han
+har å gjøre. I monorailen – på vei til kontoret – drøfter Lillebror og Kodémus
+dagens program. På kontoret arbeides det raskt og effektivt, ingen av
+funksjonærene er i tvil om hva som må gjøres og alle beslutninger er
+enstemmige. Alle Lillebrødrene går synkront.
+
+Kolofon
+
+Novellen Kodémus ble første gang trykt i novellesamlingen Probok utgitt på
+Gyldendal i 1968. Den ble gitt ut i elektronisk format av Elektronisk Forpost
+Norge i 2013. Du finner elektroniske utgaver av novellen i ulike filformater på
+http://efn.no/kodemus/.
+
+ISBN-nummer:
+978-82-92812-01-3 (text/plain)
+978-82-92812-02-0 (application/pdf)
+978-82-92812-03-7 (text/html)
+978-82-92812-04-4 (application/epub+zip)
+978-82-92812-05-1 (application/docbook+xml)
+978-82-92812-06-8 (application/x-mobipocket-ebook)
+
+Kilden til denne utgaven av teksten er skrevet med DocBook-notasjon og de andre
+formatene er avledet fra DocBook-kilden.
+
