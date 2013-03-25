@@ -27,4 +27,6 @@ lint: kodemus.xml
 	ebook-convert $< $@
 
 clean:
+	$(RM) tmp.fo *~
+distclean: clean
 	$(RM) $(TARGETS)
