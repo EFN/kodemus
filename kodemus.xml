@@ -22,8 +22,9 @@
  </copyright>
  <legalnotice>
    <para>Denne utgivelsen av Tor Åge Bringsværds novelle Kodémus er
-   utgitt under fribrukslisensen Creative Commons
-   Navngivelse-Ikkekommersiell-Ingen bearbeidelse (by-nc-nd) 3.0:
+   utgitt av Elektronisk Forpost Norge under fribrukslisensen Creative
+   Commons Navngivelse-Ikkekommersiell-Ingen bearbeidelse (by-nc-nd)
+   3.0:
    <ulink url="http://creativecommons.org/licenses/by-nc-nd/3.0/no/">http://creativecommons.org/licenses/by-nc-nd/3.0/no/</ulink>.</para>
  </legalnotice>
  <isbn>978-82-92812-01-3</isbn> <!-- format text/plain -->
@@ -32,9 +33,35 @@
  <isbn>978-82-92812-04-4</isbn> <!-- format application/epub+zip -->
  <isbn>978-82-92812-05-1</isbn> <!-- format application/docbook+xml -->
  <isbn>978-82-92812-06-8</isbn> <!-- format application/x-mobipocket-ebook -->
+
+ <abstract>
+  <title>Om forfatteren</title>
+
+  <para>Tor Åge Bringsværd (født 16. november 1939 i Skien) er en
+  norsk forfatter kjent for romaner og fabelprosa, og som i samarbeid
+  med Jon Bing også er kjent for en rekke sciencefictionbøker og
+  tv-produksjoner under det kollektive forfatternavnet Bing og
+  Bringsværd.  (Fra
+  <ulink url="http://no.wikipedia.org/wiki/Tor_Åge_Bringsværd">Wikipedia</ulink>)</para>
+
+  <para>Tor Åge Bringsværds nettsted finner du via
+  <ulink url="http://web2.gyldendal.no/toraage/">http://web2.gyldendal.no/toraage/</ulink>.</para>
+
+ </abstract>
+
 </bookinfo>
 
-<preface>
+<dedication id="aboutefn">
+<title>Om Elektronisk Forpost Norge</title>
+
+<para>Elektronisk Forpost Norge arbeider for dine borgerrettigheter i
+IT-samfunnet, for nettverks- og delingskultur, personvern og frihet
+fra overvåkning, åpne standarder, brukerstyrt programvare, retten til
+å kopiere, og styrking av det digitale sivilsamfunnet m.m.
+<ulink url="http://efn.no/">http://efn.no/</ulink></para>
+</dedication>
+
+<preface id="forord">
 <title>Forord</title>
 
 <para>Elektronisk Forpost Norge (EFN) er veldig glad for anledningen
@@ -98,7 +125,7 @@ individets frihet og integritet.</para>
 
 </preface>
 
-<chapter>
+<chapter id="kodemus">
 <title>Kodémus</title>
 <para><orderedlist>
    <listitem>
@@ -751,24 +778,25 @@ Lillebrødrene går synkront.</para>
 
 </chapter>
 
-<colophon>
-<para>Du finner Kodémus i ulike filformater her:
-<ulink url="http://efn.no/kodemus/">http://efn.no/kodemus/</ulink></para>
+<colophon id="colophon">
 
-<para>Tor Åge Bringsværds nettsted finner du her:
-<ulink url="http://web2.gyldendal.no/toraage/">http://web2.gyldendal.no/toraage/</ulink></para>
+<para>Novellen Kodémus ble første gang trykt i novellesamlingen Probok
+utgitt på Gyldendal i 1968.  Den ble gitt ut i elektronisk format av
+Elektronisk Forpost Norge i 2013.  Du finner elektroniske utgaver av
+novellen i ulike filformater på
+<ulink url="http://efn.no/kodemus/">http://efn.no/kodemus/</ulink>.</para>
 
-<para>ISBN-nummer: 978-82-92812-01-3 (text/plain)</para>
-<para>ISBN-nummer: 978-82-92812-02-0 (application/pdf)</para>
-<para>ISBN-nummer: 978-82-92812-03-7 (text/html)</para>
-<para>ISBN-nummer: 978-82-92812-04-4 (application/epub+zip)</para>
-<para>ISBN-nummer: 978-82-92812-05-1 (application/docbook+xml)</para>
-<para>ISBN-nummer: 978-82-92812-06-8 (application/x-mobipocket-ebook)</para>
+<para>ISBN-nummer:
+<?linebreak?>978-82-92812-01-3 (text/plain)
+<?linebreak?>978-82-92812-02-0 (application/pdf)
+<?linebreak?>978-82-92812-03-7 (text/html)
+<?linebreak?>978-82-92812-04-4 (application/epub+zip)
+<?linebreak?>978-82-92812-05-1 (application/docbook+xml)
+<?linebreak?>978-82-92812-06-8 (application/x-mobipocket-ebook)</para>
 
-<para>EFN arbeider for dine borgerrettigheter i IT-samfunnet, for
-nettverks- og delingskultur, personvern og frihet fra overvåkning,
-åpne standarder, brukerstyrt programvare, retten til å kopiere, og
-styrking av det digitale sivilsamfunnet m.m.
-<ulink url="http://www.efn.no/">http://www.efn.no/</ulink></para>
+<para>Kilden til denne utgaven av teksten er skrevet med
+DocBook-notasjon og de andre formatene er avledet fra
+DocBook-kilden.</para>
+
 </colophon>
 </book>
