@@ -20,7 +20,7 @@
    <year>1968</year>
    <holder>Tor Åge Bringsværd</holder>
  </copyright>
- <legalnotice>
+ <legalnotice id="legalnotice">
    <para>Denne utgivelsen av Tor Åge Bringsværds novelle Kodémus er
    utgitt av Elektronisk Forpost Norge under fribrukslisensen Creative
    Commons Navngivelse-Ikkekommersiell-Ingen bearbeidelse (by-nc-nd)
@@ -228,7 +228,7 @@ individets frihet og integritet.</para>
  </orderedlist>
 </para>
 
-<bridgehead>*</bridgehead>
+<bridgehead id="scene1">*</bridgehead>
 
 <para>En morgen våknet Kodémus helt av seg selv. Men altfor sent. Ør
 og fortumlet myste han vantro mot Lillebror på nattbordet. <quote>Du
@@ -471,7 +471,7 @@ FARE I: EIERS BALANSE &ndash; FARE II: KUBE-BALANSE &ndash; FARE III:
 SAMFUNNS-BALANSE &ndash; EIER? &ndash; KODÉMUS &ndash; KONKLUSJON: KODÉMUS FARE &ndash;
 TILTAK? &ndash; TILTAK 120754x</computeroutput></para>
 
-<bridgehead>*</bridgehead>
+<bridgehead id="scene2">*</bridgehead>
 
 <para>Kodémus våknet av at noen trettet.
 <?linebreak?>
