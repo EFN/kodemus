@@ -521,9 +521,9 @@ enstemmige. Alle Lillebrødrene går synkront.
 Kolofon
 
 Novellen Kodémus ble første gang trykt i novellesamlingen Probok utgitt på
-Gyldendal i 1968. Den ble gitt ut i elektronisk format av Elektronisk Forpost
-Norge i 2013. Du finner elektroniske utgaver av novellen i ulike filformater på
-http://efn.no/kodemus/.
+Gyldendal i 1968. Den ble gitt ut i elektronisk format med forfatterens
+velsignelse av Elektronisk Forpost Norge i 2013. Du finner elektroniske utgaver
+av novellen i ulike filformater på http://efn.no/kodemus/.
 
 ISBN-nummer:
 978-82-92812-01-3 (text/plain)
