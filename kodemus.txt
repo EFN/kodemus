@@ -61,8 +61,8 @@ sammen med).
 Tross sitt IT-tema fantes ikke Kodémus i elektronisk form, og frivillige i EFN
 har skannet inn, OCR-tolket og korrekturlest novellen, og deretter kodet den i
 en rekke digitale formater, med utgangspunkt i DocBook. Roy Sigurd Karlsbakk,
-Petter Reinholdtsen, Peter Hansteen, Morten Sickel og undertegnede har stått
-sentralt i dette arbeidet.
+Petter Reinholdtsen, Morten Sickel og undertegnede har stått sentralt i dette
+arbeidet.
 
 Novellen utgis med en Creative Commons (CC) fribrukslisens. For leserne eller
 brukerne innebærer dette at de får en klar og standardisert beskjed om hvilke
