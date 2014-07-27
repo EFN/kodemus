@@ -19,6 +19,10 @@ pakker må installeres:
 
   apt-get install dbtoepub xmlto libxml2-utils docbook-xsl calibre
 
+og følgende kommando kjøres for å bygge alle utgaver:
+
+  make
+
 For tips om DocBook-tagging, sjekk
 
  * http://geant4.web.cern.ch/geant4/workAreaUserDocKA/AuthorsInstruction/IntroDocBook.html
