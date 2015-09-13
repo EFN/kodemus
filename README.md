@@ -14,10 +14,14 @@ komplisert.
 Dersom noen ønsker å bidra, men ikke er komfortable med git / github,
 last ned filer, editer og send til meg, så får jeg korreksjonene inn.
 
-For å lage de ulike formatene fra DocBook-kildefilen på Debian, følgende
-pakker må installeres:
+For å lage de ulike formatene fra DocBook-kildefilen må følgende
+pakker installeres:
 
+Debian/Ubuntu:
   apt-get install dbtoepub xmlto libxml2-utils docbook-xsl calibre
+
+Mageia:
+  urpmi docbook5-style-xsl xmlto libxml2-utils docbook-style-xsl calibre
 
 og følgende kommando kjøres for å bygge alle utgaver:
 
